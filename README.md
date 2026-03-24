@@ -1,4 +1,4 @@
-![Dashboard](img/Dashboard.png)
+![Dashboard](Dashboard.png)
 # 📊 HR Attrition Analytics Dashboard
 
 ## 📝 Project Overview
